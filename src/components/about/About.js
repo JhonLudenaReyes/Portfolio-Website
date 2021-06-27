@@ -7,10 +7,10 @@ const About = () => {
       <div className="about-desc">
         <h3>Let me tell you something about me</h3>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam repellat
-          ducimus earum cumque, dolorum quisquam, aperiam animi mollitia
-          laboriosam, minima corrupti eum exercitationem? Rem ea mollitia optio
-          repellendus harum ad!
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis
+          provident inventore quod voluptates sequi. Quis, necessitatibus omnis
+          iusto perferendis dolores voluptate et dolorum inventore autem nemo,
+          quos eveniet magni nesciunt.
         </p>
       </div>
       <div className="about-img">
